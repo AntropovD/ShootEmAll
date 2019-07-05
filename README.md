@@ -1,5 +1,4 @@
 ShootEmAll
 ==========
-Small worms-like game
-Used qt creator
-Linux and Windows versions
+Worms-like game written on Qt and C++.
+Linux and Windows versions published
